@@ -1,0 +1,22 @@
+input {
+    width: 100%;
+}
+
+.Items-container{
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.myrow {
+    margin-bottom: 10px;
+    /* background: #000; */
+}
+
+
+.mybtn {
+    width: 100px;
+    justify-content: center;
+    
+    /* text-align: center; */
+}
